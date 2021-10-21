@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621537420 source:c:\users\aneta\documents\programowanie\01-ks-struct\ks-strukt.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<sstream>
+
